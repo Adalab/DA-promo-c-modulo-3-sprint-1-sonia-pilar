@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Archivos ignorados
+regresion_lineal/files/usa_chronic_disease_indicators.csv
