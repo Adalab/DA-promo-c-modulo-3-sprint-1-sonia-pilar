@@ -130,3 +130,5 @@ dmypy.json
 
 #Archivos ignorados
 regresion_lineal/files/usa_chronic_disease_indicators.csv
+regresion_lineal/files/autistic_data.csv
+regresion_lineal/files/autistic_data_origen.txt
