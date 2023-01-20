@@ -8,3 +8,11 @@
 X - Intro a Machine Learning
 
 X - Test Estadísticos
+
+X - Asunciones Regresión Lineal
+
+X - Covarianza y Correlación
+
+X - Normalización
+
+X - Estandarización
