@@ -5,14 +5,22 @@
 
 **Regresión Lineal**:
 
-X - Intro a Machine Learning
+X - 1 - Intro a Machine Learning
 
-X - Test Estadísticos
+X - 2 - Test Estadísticos
 
-X - Asunciones Regresión Lineal
+X - 3 - Asunciones Regresión Lineal
 
-X - Covarianza y Correlación
+X - 4 - Covarianza y Correlación
 
-X - Normalización
+X - 5 - Normalización
 
-X - Estandarización
+X - 6 - Estandarización
+
+X - 7 - ANOVA
+
+X - 8 - Encoding
+
+X - 9 - Regresión Lineal: Intro
+
+X - 10 - Regresión Lineal: Métricas
