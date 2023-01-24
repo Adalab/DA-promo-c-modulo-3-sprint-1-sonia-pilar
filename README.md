@@ -23,4 +23,4 @@
 
 - [x] - 9 - Regresión Lineal: Intro
 
-- [] - 10 - Regresión Lineal: Métricas
+- [x] - 10 - Regresión Lineal: Métricas
