@@ -24,3 +24,14 @@
 - [x] - 9 - Regresión Lineal: Intro
 
 - [x] - 10 - Regresión Lineal: Métricas
+
+- [x] - 11 - Decision Tree
+
+- [x] - 12 - Random Forest
+
+
+**Regresión Logístical**:
+
+- [x] - 13 - EDA
+
+- [x] - 14 - Preprocesado
