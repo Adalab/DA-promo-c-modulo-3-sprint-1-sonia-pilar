@@ -30,7 +30,7 @@
 - [x] - 12 - Random Forest
 
 
-**Regresión Logístical**:
+**Regresión Logística**:
 
 - [x] - 13 - EDA
 
