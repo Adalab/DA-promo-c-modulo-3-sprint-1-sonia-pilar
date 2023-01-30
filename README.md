@@ -35,3 +35,13 @@
 - [x] - 13 - EDA
 
 - [x] - 14 - Preprocesado
+
+- [x] - 15 - Ajuste regresión logística
+
+- [x] - 16 - Métricas regresión logística
+
+- [x] - 17 - Decision Tree
+
+- [x] - 18 - Random Forest
+
+
